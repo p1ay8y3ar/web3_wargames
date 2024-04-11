@@ -12,3 +12,7 @@ ethernaut 0.1.0 version,2024
 
 [5-Telephone](./5-Telephone.md)
 
+[6-Token](./6-Token.md)
+
+[7-Delegation](./7-Delegation.md)
+
