@@ -16,3 +16,6 @@ ethernaut 0.1.0 version,2024
 
 [7-Delegation](./7-Delegation.md)
 
+[8-Force](./8-Force.md)
+
+[9-Valut](./9-Vault.md)
