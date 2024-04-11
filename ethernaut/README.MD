@@ -5,3 +5,10 @@ ethernaut 0.1.0 version,2024
 [1-Hello Ethernaut](./1-Hello%20Ethernaut)
 
 [2-Fallback](./2-Fallback.md)
+
+[3-Fallout](./3-Fallout.md)
+
+[4-Coin Flip](./4-Coin%20Flip.md)
+
+[5-Telephone](./5-Telephone.md)
+
