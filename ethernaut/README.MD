@@ -21,3 +21,7 @@ ethernaut 0.1.0 version,2024
 [9-Valut](./9-Vault.md)
 
 [10-King](./10-King.md)
+
+[11-Re-entrancy](./11-Re-entrancy.md)
+
+[12-Elevator](./12-Elevator.md)
