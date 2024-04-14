@@ -25,3 +25,8 @@ ethernaut 0.1.0 version,2024
 [11-Re-entrancy](./11-Re-entrancy.md)
 
 [12-Elevator](./12-Elevator.md)
+
+[13-Privacy](./13-privacy.md)
+
+[14-GatekeeperOne](./14-Gatekeeper%20One.md)
+
