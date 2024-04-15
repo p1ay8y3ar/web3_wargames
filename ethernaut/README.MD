@@ -30,3 +30,4 @@ ethernaut 0.1.0 version,2024
 
 [14-GatekeeperOne](./14-Gatekeeper%20One.md)
 
+[15-GatekeeperTwo](./15-GatekeeperTwo.md)
